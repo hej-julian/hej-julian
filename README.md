@@ -48,7 +48,3 @@ I build and maintain Linux-based infrastructure, self-hosted services, and web a
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
----
-
-🔗 **More about me:** [Digital résumé](https://combant.de/resume)
