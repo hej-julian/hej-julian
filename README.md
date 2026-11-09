@@ -6,7 +6,7 @@ I build and maintain Linux-based infrastructure, self-hosted services, and web a
 
 ### 🔧 What I work on
 
-- 🐧 **Linux & infrastructure:** Debian server administration, Docker, Docker Compose, Nginx, and Plesk
+- 🐧 **Linux & infrastructure:** Ubuntu, Debian server administration, Docker, Docker Compose, Nginx, and Plesk
 - 🌐 **Networking & security:** WireGuard, reverse proxies, authentication, and secure service deployments
 - ⚡ **Backend & real-time systems:** Node.js, TypeScript, REST APIs, WebSockets, Socket.IO, and gRPC
 - 🎨 **Web development:** Svelte, React, Next.js, and responsive frontends
